@@ -53,7 +53,7 @@ body{
     border-radius: 10px;
     position: absolute; /* ตั้งค่าโปรแกรมภายใน button เป็น absolute */
     top: 70%; /* ตำแหน่งปุ่มบนภาพ */
-    left: 20%; /* ตำแหน่งปุ่มซ้ายของภาพ */
+    left: 23%; /* ตำแหน่งปุ่มซ้ายของภาพ */
     transform: translate(-50%, -50%); /* จัดตำแหน่งปุ่มให้อยู่ตรงกลาง */
     background-color: #ffffff; /* สีพื้นหลังของปุ่ม */
     color: white; /* สีข้อความของปุ่ม *//
