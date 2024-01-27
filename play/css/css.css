@@ -45,6 +45,7 @@ body{
     text-align: center; /* จัดข้อความให้อยู่ตรงกลาง */
     text-decoration: none; /* ไม่มีการเพิ่มลิงก์ */
     display: inline-block; /* จัดตำแหน่งปุ่มให้อยู่บนรูปภาพ */
+    border: 2px solid #BD9988;
 }
 .button2 {
     padding: 15px 50px ;
@@ -74,7 +75,7 @@ body{
     font-size: 64px;
     position: absolute; /* ตั้งค่าโปรแกรมภายใน button เป็น absolute */
     top: 16rem; /* ตำแหน่งปุ่มบนภาพ */
-    left: 22%; /* ตำแหน่งปุ่มซ้ายของภาพ */
+    left: 26%; /* ตำแหน่งปุ่มซ้ายของภาพ */
     transform: translate(-50%, -50%); /* จัดตำแหน่งปุ่มให้อยู่ตรงกลาง */
     color: #BD9988;
 }
@@ -82,7 +83,7 @@ body{
     font-size: 64px;
     position: absolute; /* ตั้งค่าโปรแกรมภายใน button เป็น absolute */
     top: 23rem; /* ตำแหน่งปุ่มบนภาพ */
-    left: 29%; /* ตำแหน่งปุ่มซ้ายของภาพ */
+    left: 36%; /* ตำแหน่งปุ่มซ้ายของภาพ */
     transform: translate(-50%, -50%); /* จัดตำแหน่งปุ่มให้อยู่ตรงกลาง */
     color: #000000;
 }
@@ -195,7 +196,7 @@ body{
     top: 5rem;
     height: 370px;
 }
-/* --------------------------------------------------------------------------- */
+/* ----------------------------------------github----------------------------------- */
 .git{
     margin: 0%;
     padding: 0%;
@@ -213,24 +214,24 @@ body{
 }
 .githubqr{
    position: absolute;
-    left: 35%;
+    left: 55%;
     top: 10rem;
 }
 .gittext{
     position: absolute;
     top: 8rem;
     font-size: 36px;
-    left: 18rem;
+    left: 10%;
 }
 .webgit{
     position: absolute;
     top: 14rem;
-    left: 21.5rem;
+    left: 15%;
     font-size: 28px;
     text-decoration: none;
     color: #000000;
 }
-/* --------------------------------------------------------------------------- */
+/* ---------------------------------footer------------------------------------------ */
 footer{
     margin: 0%;
     padding: 0%;
